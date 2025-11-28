@@ -1,0 +1,10 @@
+ Linear Regression Results:
+R^2 Score = 0.4846
+Coefficients:
+  • Nodal Count = -0.529988
+  • Topological Energy = 0.601642
+Intercept = 0.383816
+
+ Pearson Correlation:
+corr(N_t, V_eff) = -0.5613  (p = 1.16e-01)
+corr(E_topo, V_eff) = 0.5794  (p = 1.02e-01)

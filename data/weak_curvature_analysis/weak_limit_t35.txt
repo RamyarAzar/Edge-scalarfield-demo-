@@ -1,0 +1,4 @@
+t = 35
+Mean deviation (low K): 8.08172e+57
+Max deviation  (low K): 4.30294e+60
+Number of low-K points: 28070

@@ -1,0 +1,19 @@
+t=33: Entropy = 8.44684
+t=34: Entropy = 8.66858
+t=35: Entropy = 8.66355
+t=36: Entropy = 8.75212
+t=37: Entropy = 8.76792
+t=38: Entropy = 8.64671
+t=39: Entropy = 8.13506
+t=40: Entropy = 8.38360
+t=41: Entropy = 8.22230
+
+🔁 Auto-correlation:
+t=33 → t=34: Corr = 0.3892
+t=34 → t=35: Corr = 0.6506
+t=35 → t=36: Corr = 0.7273
+t=36 → t=37: Corr = 0.7376
+t=37 → t=38: Corr = 0.6403
+t=38 → t=39: Corr = 0.2340
+t=39 → t=40: Corr = 0.2105
+t=40 → t=41: Corr = 0.7747
